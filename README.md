@@ -129,10 +129,10 @@ Finance Technology    ████████░░░  75%
 UI/UX Design          ███████░░░░  70%
 ```
 
-🏆 GitHub Trophy
+## 🏆 GitHub Trophy
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arsyacoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
 
-📫 Connect With Me
+## 📫 Connect With Me
 <div align="center"> <a href="https://github.com/Arsyacoo"> <img src="https://img.shields.io/badge/GitHub-Arsyacoo-181717?style=for-the-badge&logo=github" /> </a> </div>
 
 <div align="center">
