@@ -2,9 +2,10 @@
 
 # Hi, I'm Arsyacoo 👋
 
-### AI Enthusiast • Full-Stack Developer • Data & Finance Tech Builder
+### AI & Full-Stack Developer  
+#### Building AI, Data, Finance, and Productivity Web Apps
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+web+apps;Exploring+Finance+%26+Crypto+Technology;React+%7C+Next.js+%7C+Laravel+%7C+FastAPI;Turning+ideas+into+real+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;React+%7C+FastAPI+%7C+Laravel+%7C+Next.js;Building+AI-powered+web+applications;Exploring+Data+Science+and+Finance+Technology" alt="Typing SVG" />
 
 </div>
 
@@ -12,13 +13,13 @@
 
 ## 🚀 About Me
 
-I'm a developer focused on building modern web applications, AI-powered tools, and financial technology dashboards.  
-I enjoy combining **frontend design**, **backend systems**, and **machine learning** to create useful digital products.
+I'm a developer who enjoys building modern web applications, AI-powered tools, data dashboards, and finance technology projects.  
+My projects combine frontend design, backend development, machine learning, and practical product ideas.
 
-- 🔭 Currently building projects around **AI, health tech, crypto, and stock dashboards**
-- 🌱 Learning more about **machine learning, forecasting, and full-stack architecture**
-- 💡 Interested in **React, Next.js, Laravel, FastAPI, Python, and data science**
-- ⚡ Goal: build clean, useful, and scalable products
+- 🔭 Currently building projects around **AI, data science, finance dashboards, and productivity tools**
+- 🌱 Learning more about **machine learning, Retrieval-Augmented Generation, forecasting, and full-stack architecture**
+- 💻 Main stack: **React, Next.js, FastAPI, Laravel, Python, JavaScript, TypeScript**
+- 🎯 Goal: create useful, clean, and scalable digital products
 
 ---
 
@@ -29,11 +30,14 @@ I enjoy combining **frontend design**, **backend systems**, and **machine learni
 ### Frontend
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-### Backend & Database
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs,mysql,postgres" />
+### Backend
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" />
 
-### Tools & AI
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,tensorflow,pytorch" />
+### Database & Tools
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma" />
+
+### AI & Data
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 
 </div>
 
@@ -45,37 +49,68 @@ I enjoy combining **frontend design**, **backend systems**, and **machine learni
 <tr>
 <td width="50%">
 
-### 🩺 AI Healthcare
-Frontend React app for general health education, symptom guides, medicine info, prevention tips, and AI chat.
+### 📄 PDF Insight AI
+Full-stack AI application for uploading, analyzing, summarizing, comparing, and chatting with PDF documents using a RAG-based workflow.
 
-**Tech:** React, JavaScript, AI Concept
+**Tech Stack:** React, FastAPI, JavaScript, AI, RAG
+
+<a href="https://github.com/Arsyacoo/PDF-Insight-AI">View Repository</a>
 
 </td>
+<td width="50%">
+
+### 🏭 Simo System
+Operational dashboard for monitoring warehouse production progress, logistics activity, quality control, and audit logs.
+
+**Tech Stack:** JavaScript, Web Dashboard
+
+<a href="https://github.com/Arsyacoo/Simo-System">View Repository</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🛡️ Fraud Transaction Detection
+Fraud transaction detection prototype using Random Forest, baseline comparison, PR-AUC evaluation, anomaly score ablation, and Streamlit dashboard.
+
+**Tech Stack:** Python, Jupyter Notebook, Machine Learning, Streamlit
+
+<a href="https://github.com/Arsyacoo/Fraud-Transaction-Detection-Random-Forest">View Repository</a>
+
+</td>
+<td width="50%">
+
+### 🩺 AI Healthcare
+AI-powered health education frontend app with symptom guidance, AI chat, medicine information, prevention tips, and medical disclaimer.
+
+**Tech Stack:** React, JavaScript, AI Concept
+
+<a href="https://github.com/Arsyacoo/AI-Healthcare">View Repository</a>
+
+</td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 📈 IDX Monitor
-Full-stack Indonesian stock dashboard for monitoring stock prices and detecting whale activity.
+Full-stack Indonesian stock dashboard for monitoring stock prices and detecting whale activity in the market.
 
-**Tech:** React, FastAPI, JavaScript
+**Tech Stack:** React, FastAPI, JavaScript, Finance Tech
+
+<a href="https://github.com/Arsyacoo/IDX-Monitor">View Repository</a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### ₿ CryptoSignal AI
-AI-powered crypto trading assistant browser extension with buy, sell, and hold signal features.
+AI-powered crypto trading assistant browser extension that provides buy, sell, or hold signal insights.
 
-**Tech:** Laravel / Blade, AI, Crypto
+**Tech Stack:** Blade, Laravel, AI, Crypto
 
-</td>
-<td width="50%">
-
-### 🎬 NontonYuk
-Modern streaming web app inspired by premium movie platforms with a Next.js and Tailwind interface.
-
-**Tech:** Next.js, TypeScript, Tailwind CSS
+<a href="https://github.com/Arsyacoo/CryptoSignal-AI">View Repository</a>
 
 </td>
 </tr>
@@ -83,18 +118,22 @@ Modern streaming web app inspired by premium movie platforms with a Next.js and 
 <tr>
 <td width="50%">
 
-### 🔮 ETH Sentinel
-Hybrid LSTM project for Ethereum price prediction using AI and data forecasting.
+### 🎬 NontonYuk
+Modern streaming web application inspired by premium movie platforms with a clean Next.js and Tailwind CSS interface.
 
-**Tech:** Python, Jupyter Notebook, Machine Learning
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS
+
+<a href="https://github.com/Arsyacoo/NontonYuk">View Repository</a>
 
 </td>
 <td width="50%">
 
-### 🚗 Rental Iqra
-Full-stack car rental reservation web app using Laravel backend and React frontend.
+### 🔮 ETH Sentinel
+Hybrid LSTM project for Ethereum price prediction using artificial intelligence and forecasting methods.
 
-**Tech:** Laravel, React, JavaScript
+**Tech Stack:** Python, Jupyter Notebook, Machine Learning
+
+<a href="https://github.com/Arsyacoo/ETH-Sentinel-Hybrid-LSTM-for-Ethereum-Price-Prediction.">View Repository</a>
 
 </td>
 </tr>
@@ -106,8 +145,8 @@ Full-stack car rental reservation web app using Laravel backend and React fronte
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arsyacoo&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyacoo&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arsyacoo&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyacoo&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -122,19 +161,50 @@ Full-stack car rental reservation web app using Laravel backend and React fronte
 ## 🧠 Current Focus
 
 ```txt
-AI Development        █████████░░  80%
-Full-Stack Web Apps   █████████░░  85%
-Data Science          ███████░░░░  65%
-Finance Technology    ████████░░░  75%
-UI/UX Design          ███████░░░░  70%
+AI Web Applications        █████████░░  85%
+Full-Stack Development     █████████░░  85%
+Data Science & ML          ████████░░░  75%
+Finance Technology         ████████░░░  75%
+UI/UX Implementation       ███████░░░░  70%
+
 ```
 
-## 🏆 GitHub Trophy
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Arsyacoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" /> </div>
+---
 
-## 📫 Connect With Me
-<div align="center"> <a href="https://github.com/Arsyacoo"> <img src="https://img.shields.io/badge/GitHub-Arsyacoo-181717?style=for-the-badge&logo=github" /> </a> </div>
+## 🏆 GitHub Trophy
 
 <div align="center">
-“Code is not just syntax — it is a way to turn ideas into reality.”
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" /> </div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsyacoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</div>
+
+---
+
+## 📌 Project Categories
+
+| Category | Projects |
+|---|---|
+| AI & RAG | PDF Insight AI, AI Healthcare |
+| Data Science | Fraud Transaction Detection, ETH Sentinel, Car Resale Value Analysis |
+| Finance & Crypto | IDX Monitor, CryptoSignal AI, CryptoNews Sentiment Analyzer |
+| Full-Stack Web Apps | Rental Iqra, Simo System |
+| Frontend & UI | NontonYuk, Lavina CV |
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/Arsyacoo">
+    <img src="https://img.shields.io/badge/GitHub-Arsyacoo-181717?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+
+### “Turning ideas into useful digital products.”
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
+
+</div>
