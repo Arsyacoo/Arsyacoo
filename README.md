@@ -28,16 +28,16 @@ My projects combine frontend design, backend development, machine learning, and 
 <div align="center">
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" alt="Backend technologies: Python, FastAPI, PHP, Laravel, Node.js" />
 
 ### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma" alt="Database and tools: MySQL, PostgreSQL, Git, GitHub, VS Code, Figma" />
 
 ### AI & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and data technologies: TensorFlow, PyTorch" />
 
 </div>
 
@@ -145,14 +145,14 @@ Hybrid LSTM project for Ethereum price prediction using artificial intelligence 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arsyacoo&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyacoo&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arsyacoo&show_icons=true&theme=tokyonight&hide_border=true" alt="Arsyacoo GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyacoo&layout=compact&theme=tokyonight&hide_border=true" alt="Arsyacoo most used languages" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsyacoo&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsyacoo&theme=tokyonight&hide_border=true" alt="Arsyacoo GitHub contribution streak" />
 
 </div>
 
@@ -174,7 +174,7 @@ UI/UX Implementation       ███████░░░░  70%
 ## 🏆 GitHub Trophy
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsyacoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsyacoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Arsyacoo GitHub profile trophies" />
 </div>
 
 ---
@@ -195,7 +195,7 @@ UI/UX Implementation       ███████░░░░  70%
 
 <div align="center">
   <a href="https://github.com/Arsyacoo">
-    <img src="https://img.shields.io/badge/GitHub-Arsyacoo-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Arsyacoo-181717?style=for-the-badge&logo=github" alt="Arsyacoo on GitHub" />
   </a>
 </div>
 
@@ -205,6 +205,6 @@ UI/UX Implementation       ███████░░░░  70%
 
 ### “Turning ideas into useful digital products.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" alt="" />
 
 </div>
