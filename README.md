@@ -1,210 +1,50 @@
-<div align="center">
+<h1 align="center">Hi, I'm Lavina Arsya Aryanto 👋</h1>
+<p align="center">
+  <b>AI & Full-Stack Developer</b> — building AI, data, and finance web apps<br>
+  React · Next.js · FastAPI · Laravel · Python
+</p>
 
-# Hi, I'm Arsyacoo 👋
-
-### AI & Full-Stack Developer  
-#### Building AI, Data, Finance, and Productivity Web Apps
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=3000&pause=900&center=true&vCenter=true&width=700&lines=AI+%26+Full-Stack+Developer;React+%7C+FastAPI+%7C+Laravel+%7C+Next.js;Building+AI-powered+web+applications;Exploring+Data+Science+and+Finance+Technology" alt="Typing SVG" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-I'm a developer who enjoys building modern web applications, AI-powered tools, data dashboards, and finance technology projects.  
-My projects combine frontend design, backend development, machine learning, and practical product ideas.
-
-- 🔭 Currently building projects around **AI, data science, finance dashboards, and productivity tools**
-- 🌱 Learning more about **machine learning, Retrieval-Augmented Generation, forecasting, and full-stack architecture**
-- 💻 Main stack: **React, Next.js, FastAPI, Laravel, Python, JavaScript, TypeScript**
-- 🎯 Goal: create useful, clean, and scalable digital products
+<p align="center">
+  <a href="https://arsyalavina.web.id"><img src="https://img.shields.io/badge/Portfolio-arsyalavina.web.id-0A66C2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/arsyacoo"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:arsyalavina@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+### About me
 
-<div align="center">
+I build web apps that put AI and data to practical use — from RAG-based document tools to stock and crypto dashboards.
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="Frontend technologies: HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+- 🔭 Working on AI-powered web apps, finance dashboards, and productivity tools
+- 🌱 Learning RAG, time-series forecasting, and full-stack architecture
+- 🎯 Goal: ship useful, clean, and scalable products
 
-### Backend
-<img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" alt="Backend technologies: Python, FastAPI, PHP, Laravel, Node.js" />
+### Tech stack
 
-### Database & Tools
-<img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,vscode,figma" alt="Database and tools: MySQL, PostgreSQL, Git, GitHub, VS Code, Figma" />
-
-### AI & Data
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="AI and data technologies: TensorFlow, PyTorch" />
-
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📄 PDF Insight AI
-Full-stack AI application for uploading, analyzing, summarizing, comparing, and chatting with PDF documents using a RAG-based workflow.
-
-**Tech Stack:** React, FastAPI, JavaScript, AI, RAG
-
-<a href="https://github.com/Arsyacoo/PDF-Insight-AI">View Repository</a>
-
-</td>
-<td width="50%">
-
-### 🏭 Simo System
-Operational dashboard for monitoring warehouse production progress, logistics activity, quality control, and audit logs.
-
-**Tech Stack:** JavaScript, Web Dashboard
-
-<a href="https://github.com/Arsyacoo/Simo-System">View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🛡️ Fraud Transaction Detection
-Fraud transaction detection prototype using Random Forest, baseline comparison, PR-AUC evaluation, anomaly score ablation, and Streamlit dashboard.
-
-**Tech Stack:** Python, Jupyter Notebook, Machine Learning, Streamlit
-
-<a href="https://github.com/Arsyacoo/Fraud-Transaction-Detection-Random-Forest">View Repository</a>
-
-</td>
-<td width="50%">
-
-### 🩺 AI Healthcare
-AI-powered health education frontend app with symptom guidance, AI chat, medicine information, prevention tips, and medical disclaimer.
-
-**Tech Stack:** React, JavaScript, AI Concept
-
-<a href="https://github.com/Arsyacoo/AI-Healthcare">View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📈 IDX Monitor
-Full-stack Indonesian stock dashboard for monitoring stock prices and detecting whale activity in the market.
-
-**Tech Stack:** React, FastAPI, JavaScript, Finance Tech
-
-<a href="https://github.com/Arsyacoo/IDX-Monitor">View Repository</a>
-
-</td>
-<td width="50%">
-
-### ₿ CryptoSignal AI
-AI-powered crypto trading assistant browser extension that provides buy, sell, or hold signal insights.
-
-**Tech Stack:** Blade, Laravel, AI, Crypto
-
-<a href="https://github.com/Arsyacoo/CryptoSignal-AI">View Repository</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🎬 NontonYuk
-Modern streaming web application inspired by premium movie platforms with a clean Next.js and Tailwind CSS interface.
-
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS
-
-<a href="https://github.com/Arsyacoo/NontonYuk">View Repository</a>
-
-</td>
-<td width="50%">
-
-### 🔮 ETH Sentinel
-Hybrid LSTM project for Ethereum price prediction using artificial intelligence and forecasting methods.
-
-**Tech Stack:** Python, Jupyter Notebook, Machine Learning
-
-<a href="https://github.com/Arsyacoo/ETH-Sentinel-Hybrid-LSTM-for-Ethereum-Price-Prediction.">View Repository</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arsyacoo&show_icons=true&theme=tokyonight&hide_border=true" alt="Arsyacoo GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyacoo&layout=compact&theme=tokyonight&hide_border=true" alt="Arsyacoo most used languages" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arsyacoo&theme=tokyonight&hide_border=true" alt="Arsyacoo GitHub contribution streak" />
-
-</div>
-
----
-
-## 🧠 Current Focus
-
-```txt
-AI Web Applications        █████████░░  85%
-Full-Stack Development     █████████░░  85%
-Data Science & ML          ████████░░░  75%
-Finance Technology         ████████░░░  75%
-UI/UX Implementation       ███████░░░░  70%
-
-```
-
----
-
-## 🏆 GitHub Trophy
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsyacoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="Arsyacoo GitHub profile trophies" />
-</div>
-
----
-
-## 📌 Project Categories
-
-| Category | Projects |
+| Area | Tools |
 |---|---|
-| AI & RAG | PDF Insight AI, AI Healthcare |
-| Data Science | Fraud Transaction Detection, ETH Sentinel, Car Resale Value Analysis |
-| Finance & Crypto | IDX Monitor, CryptoSignal AI, CryptoNews Sentiment Analyzer |
-| Full-Stack Web Apps | Rental Iqra, Simo System |
-| Frontend & UI | NontonYuk, Lavina CV |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" height="32"> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=python,fastapi,php,laravel,nodejs" height="32"> |
+| **Data & AI** | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="32"> |
+| **Database & tools** | <img src="https://skillicons.dev/icons?i=mysql,postgres,git,vscode,figma" height="32"> |
 
----
+### Featured projects
 
-## 📫 Connect With Me
+| Project | What it does | Stack |
+|---|---|---|
+| 📄 [**PDF Insight AI**](https://github.com/Arsyacoo/PDF-Insight-AI) | Upload, summarize, compare, and chat with PDFs using RAG; generates quizzes and flashcards | React, FastAPI, RAG |
+| 📈 [**IDX Monitor**](https://github.com/Arsyacoo/IDX-Monitor) | Real-time Indonesian stock dashboard with whale-activity detection | React, FastAPI |
+| 🛡️ [**Fraud Transaction Detection**](https://github.com/Arsyacoo/Fraud-Transaction-Detection-Random-Forest) | Random Forest fraud detection with PR-AUC evaluation and a Streamlit dashboard | Python, scikit-learn, Streamlit |
+| 🔮 [**ETH Sentinel**](https://github.com/Arsyacoo/ETH-Sentinel-Hybrid-LSTM-for-Ethereum-Price-Prediction.) | Hybrid LSTM model for Ethereum price forecasting | Python, Deep Learning |
+| ₿ [**CryptoSignal AI**](https://github.com/Arsyacoo/CryptoSignal-AI) | Chrome extension giving AI buy / sell / hold signals for crypto | Laravel, AI |
+| 🏭 [**Simo System**](https://github.com/Arsyacoo/Simo-System) | Warehouse dashboard for production, logistics, QC, and audit logs | JavaScript |
 
-<div align="center">
-  <a href="https://github.com/Arsyacoo">
-    <img src="https://img.shields.io/badge/GitHub-Arsyacoo-181717?style=for-the-badge&logo=github" alt="Arsyacoo on GitHub" />
-  </a>
-</div>
+<sub>More: <a href="https://github.com/Arsyacoo/AI-Healthcare">AI Healthcare</a> · <a href="https://github.com/Arsyacoo/NontonYuk">NontonYuk</a> · <a href="https://github.com/Arsyacoo?tab=repositories">all repositories →</a></sub>
 
----
+### GitHub stats
 
-<div align="center">
-
-### “Turning ideas into useful digital products.”
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=120&section=footer" alt="" />
-
-</div>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arsyacoo&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arsyacoo&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages">
+</p>
